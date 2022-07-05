@@ -37,8 +37,8 @@
 ### Languages and Tools:
 
 
-[<img align="left" alt="Swift" width="26px" src="https://icongr.am/devicon/swift-original.svg?size=128&color=currentColor" />][webdevplaylist]
-[<img align="left" alt="Sketch" width="26px" src="https://icongr.am/devicon/sketch-original.svg?size=128&color=currentColor" />][webdevplaylist]
+[<img align="left" alt="Swift" width="26px" src="https://icongr.am/devicon/swift-original.svg?size=128&color=currentColor" />]
+[<img align="left" alt="Sketch" width="26px" src="https://icongr.am/devicon/sketch-original.svg?size=128&color=currentColor" />]\
 [<img align="left" alt="Go language" width="26px" src="https://icongr.am/devicon/go-original.svg?size=128&color=currentColor" style="padding-right:10px;" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
