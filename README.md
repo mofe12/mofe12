@@ -2,9 +2,9 @@
 
 ## I'm a Student, and Developer!!
 
-- 🌱 I’m currently dabbling in iOS development
-- 👯 I’m looking to making cool projects and collaborating with others
-- ⚡ Fun fact: I draw and play the guitar, and I was posted on Tim cook's twitter👀
+- 👨🏾‍💻 I’m currently dabbling in iOS development
+- ⚙️ I’m looking to making cool projects and collaborating with others
+- 💣 Fun fact: I draw and play the guitar, and I was posted on Tim cook's twitter👀
 
 ### Connect with me:
 
